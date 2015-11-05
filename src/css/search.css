@@ -1,0 +1,86 @@
+/*
+css style sheet for soft version of Devnagari Key board.
+Author Satish
+Date 10/25/2004
+*/
+
+/*for simple text*/
+.txtf1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+
+/*For different class of keys*/
+
+/*for consonants*/ 
+.keyclass1 {
+	width: 25pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #DCE0B6;
+}
+
+/*for vowels*/
+.keyclass2 {
+	width: 25pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #9ca644;
+}
+
+/*for half vowels*/
+.keyclass3 {
+	width: 25pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #bec87d;
+}
+
+/*for halant*/
+.keyclass4 {
+	width: 25pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #ffbb77;
+}
+
+/*for digits*/
+.keyclass5 {
+	width: 25pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #E8EBCF;
+}
+
+/*for space key*/
+.space {
+	width: 175pt;
+	height: 25pt;
+	background-color: #E8EBCF;
+}
+
+/*for backspace key*/
+.backspace {
+	width: 80pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #E8EBCF;
+}
+
+/*for enter key*/
+.enter {
+	width: 60pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #E8EBCF;
+}
+
+/*for shift key*/
+.shift {
+	width: 60pt;
+	height: 25pt;
+	font-size: 14px;
+	background-color: #E8EBCF;
+}
+
+/*End of File*/
